@@ -1,5 +1,7 @@
-# roman18_mixed_template
-Template for "mixed" repositories which consist of both data files and scripts, and which are likely to have their own releases/publications.
+# NER novels
+
+Perform Named Entity Recognition (NER) on french novels from the roman18 corpus with the help of SpaCy.
+
 
 ## Description
 
