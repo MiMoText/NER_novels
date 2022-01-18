@@ -21,7 +21,7 @@ from src.utils import nullable_number
 # The directory where the plain text files are stored, and where
 # the eventual results should be stored.
 SOURCES_PATH = '../../roman18/XML-TEI/files/'
-RESULTS_PATH = 'ner_loc_per.csv'
+RESULTS_PATH = '../raw_results/ner_loc_per.csv'
 
 # On machines with limited memory, some of the larger
 # documents might cause OOM. To prevent that, it is
