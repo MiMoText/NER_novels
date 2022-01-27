@@ -9,7 +9,7 @@ The roman18-corpus of about 100 eighteenth-century French novels in full text is
 
 ![Named entity recognition](https://raw.githubusercontent.com/MiMoText/NER_novels/main/img/ner_diderot.PNG?token=GHSAT0AAAAAABQ73GKIXUOIQIPWZBFXQOEQYPSTTHQ)
 
-NER with SpaCy on Diderots novel "La Religieuse", 1796.
+**NER with SpaCy on Diderots novel "La Religieuse", 1796.**
 
 Within the French language package of SpaCy one can distinguish the following types of named entities: LOC, PER, MISC and ORG entities. The five most common “LOC” (location) entities within each novel and their numerical occurences per text are extracted.
 
