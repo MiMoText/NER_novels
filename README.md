@@ -5,7 +5,7 @@ Perform Named Entity Recognition (NER) on french novels from the roman18 corpus 
 
 ## Description
 
-TODO
+The roman18-corpus of about 100 eighteenth-century French novels in full text is analysed via SpaCy’s named entity recognition. Named entity recognition (NER) is a popular information retrieval technique “to identify and segment named entities and classify or categorize them under various predefined classes” (Sarkar, 2019). 
 
 
 ### Structure of this repository
@@ -20,4 +20,4 @@ Software in this repo, unless specified otherwise, is made available under the M
 
 ## Citation suggestion
 
-TODO
+NER on Eighteenth-Century French Novels (1750-1800), edited by Julia Röttgermann, Johanna Konstanciak and Henning Gebhard. Trier: TCDH, 2022. URL: https://github.com/MiMoText/NER_novels.
