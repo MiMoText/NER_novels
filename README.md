@@ -19,6 +19,10 @@ The script which performs the NER and its technical documentation is under `scri
 
 ![OpenRefine](https://github.com/MiMoText/NER_novels/blob/main/img/OpenRefine.PNG?raw=true)
 
+## Data 
+
+We utilise the [roman18-corpus](https://github.com/MiMoText/roman18), which contains french novels 1750-1800 in XML/TEI and plain text.  We utilised the novels in modernised plain text.  
+
 
 ## Licence
 
