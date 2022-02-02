@@ -1,6 +1,6 @@
 # NER novels
 
-Perform Named Entity Recognition (NER) on french novels from the roman18 corpus with the help of SpaCy in the context of the "Mining and Modeling Text" project (University Trier). www.mimotext.uni-trier.de
+Perform Named Entity Recognition (NER) on french novels from the roman18 corpus with the help of [SpaCy](https://spacy.io/) in the context of the "Mining and Modeling Text" project (University Trier). www.mimotext.uni-trier.de
 
 
 ## Description
