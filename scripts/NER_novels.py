@@ -20,7 +20,7 @@ from src.utils import nullable_number
 
 # The directory where the plain text files are stored, and where
 # the eventual results should be stored.
-SOURCES_PATH = '../../roman18/XML-TEI/files/'
+SOURCES_PATH = '../../roman18/plain/files/'
 RESULTS_PATH = '../raw_results/ner_loc_per.csv'
 
 # On machines with limited memory, some of the larger
